@@ -19,7 +19,7 @@ class FornecedorController extends Controller
             1 => [
                 'nome' => 'Fornecedor 2', 
                 'status' => 'S',
-                'cnpj' => null,
+                'cnpj' => '0',
                 'ddd' => '85', //Fortaleza (CE)
                 'telefone' => '0000-0000'
             ],
@@ -27,7 +27,7 @@ class FornecedorController extends Controller
             2 => [
                 'nome' => 'Fornecedor 3', 
                 'status' => 'S',
-                'cnpj' => null,
+                'cnpj' => '0',
                 'ddd' => '32', //Juiz de Fora (MG)
                 'telefone' => '0000-0000'
                 ]
