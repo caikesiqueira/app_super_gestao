@@ -26,6 +26,5 @@
     Telefone: ({{ $fornecedores[$i]['ddd'] ?? '' }}) {{ $fornecedores[2]['telefone'] ?? '' }}
     <hr>
     @endfor
-    <br>
 @endisset
 <br>
